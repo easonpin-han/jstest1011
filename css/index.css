@@ -3,3 +3,6 @@ div{
     height: 100px;
     border:1px solid red;
 }
+span{
+    background-color: #000;
+}
